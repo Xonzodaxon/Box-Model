@@ -1,0 +1,20 @@
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.box {
+  width: 300px;
+  padding: 20px;           /* Padding: Content atrofidagi joy */
+  border: 5px solid #4CAF50; /* Border: Yashil chegara */
+  margin: 30px auto;        /* Margin: Box atrofidagi bo‘sh joy */
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.box h2 {
+  margin-bottom: 15px;
+  font-size: 22px;
+  color: #333;
+}
